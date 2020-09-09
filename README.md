@@ -8,3 +8,5 @@ The Trouble with Lyme Disease Diagnosis Diagnosing Lyme Disease is still a hercu
 Becaure there have been no databases of tick bite images, the paper above sought to build out such a dataset and apply a deep learning classifier to identify erythema migrans apart from other skin lesions.
 
 Note: This notebook was leveraged from Fast AIv and is soon to be updated with version 4. 
+
+![Tick Bite or Mosquito Bite Comparison](https://github.com/ElleFife/lymebites_app/blob/master/Screen%20Shot%202020-09-07%20at%205.12.37%20PM.png)
