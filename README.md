@@ -10,3 +10,9 @@ Becaure there have been no databases of tick bite images, the paper above sought
 Note: This notebook was leveraged from Fast AIv and is soon to be updated with version 4. 
 
 ![Tick Bite or Mosquito Bite Comparison](https://github.com/ElleFife/lymebites_app/blob/master/Screen%20Shot%202020-09-07%20at%205.12.37%20PM.png)
+
+![Paper](https://arxiv.org/abs/2011.11459)
+![Poster](https://docs.google.com/presentation/d/1sm_L1O1QwvjGTTUXNhZ_qyAF-Q7w9adY8i3ZxaNNSh8/edit)
+![Video from LatinX in AI NeurIPS presentation](https://slideslive.com/38942457/automatic-detection-and-classification-of-tickborne-skin-lesions-using-deep-learning?ref=speaker-22709-latest)
+
+
